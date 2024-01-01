@@ -1,0 +1,32 @@
+/* style.css */
+
+img {
+    width: 400px; 
+    height: auto; 
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+h1 {
+    color: green; 
+    text-align: center; 
+    font-size: 50px; 
+}
+
+h4 {
+    color: rgb(113, 30, 30); 
+    width: 400px;  
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: left;  
+  
+}
+
+h5 {
+    font-size: 16px; 
+}
+
+body {
+    font-family: arial, sans-serif; 
+}
